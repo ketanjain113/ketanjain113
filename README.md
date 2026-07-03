@@ -9,12 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer" />
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/ketanjain113">
-    <img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p> -->
-
 ---
 
 ## Tech Stack
@@ -68,8 +62,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ketanjain113&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ketanjain113&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ketanjain113&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ketanjain113&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanjain113&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
