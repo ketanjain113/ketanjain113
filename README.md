@@ -54,14 +54,12 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-EF4444?style=for-the-badge"/>
 </p>
 
----
 
 ## Achievements
 
 - Winner — Void Hacks 7.0 (SVVV)
 - Best Team Collaboration Award with Top 10 team — Prayatna 3.0
   
----
 
 ## GitHub Stats
 
@@ -76,8 +74,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=3b82f6&style=flat"/>
 </p>
-
----
 
 ## Connect
 
