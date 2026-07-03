@@ -14,10 +14,6 @@
   />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer" />
-</p> -->
-
 ---
 
 ## Tech Stack
