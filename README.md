@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems with Python</h3> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ketan+Jain;AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+Transformers+%7C+Generative+AI;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+,+I'm+Ketan+Jain;AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+Transformers+%7C+Generative+AI;Always+Learning+Something+New" />
 </p>
 
 <!-- <p align="center">
