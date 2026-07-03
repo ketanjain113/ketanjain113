@@ -60,18 +60,16 @@
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanjain113&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanjain113&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ketanjain113&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ketanjain113&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ketanjain113&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ketanjain113&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/-ketan-jain/)
 
----
