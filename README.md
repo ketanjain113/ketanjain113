@@ -2,14 +2,14 @@
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems with Python</h3> -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=10000&pause=999999&color=4FC3F7&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I'm+Ketan+Jain"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=6000&pause=999999&color=4FC3F7&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I'm+Ketan+Jain"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=10000&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=900&height=45&lines=AI%2FML+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=6000&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=900&height=45&lines=AI%2FML+Engineer"
     alt="Typing SVG"
   />
 </p>
@@ -71,13 +71,12 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=3b82f6&style=flat"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanjain113&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=3b82f6&style=flat"/>
+</p>
 ---
 
 ## Connect
