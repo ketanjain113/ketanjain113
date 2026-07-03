@@ -71,9 +71,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanjain113&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=3b82f6&style=flat"/>
-</p>
 
 ## Connect
 
