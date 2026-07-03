@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ketan Jain</h1>
+<h1 align="center">Hi, I'm Ketan Jain</h1>
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems with Python</h3>
 
 <p align="center">
@@ -9,41 +9,55 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### AI / ML
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+</p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Fine--Tuning-059669?style=for-the-badge"/>
+</p>
 
-### Tools
+### Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### Core CS
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-EF4444?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🥇 Winner — Void Hacks 7.0
-
-🏅 Best Team Collaboration Award — Prayatna 3.0
-
-🏆 Top 10 Finalist — National Level Hackathon
-
+- Winner — Void Hacks 7.0 (SVVV)
+- Best Team Collaboration Award with Top 10 team — Prayatna 3.0
+  
 ---
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanjain113&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -56,12 +70,8 @@
 
 ---
 
-## 🤝 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/-ketan-jain/)
 
 ---
-
-<p align="center">
-<i>"Turning ideas into intelligent applications."</i>
-</p>
