@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ketan Jain</h1>
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems with Python</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ketanjain113">
     <img src="https://komarev.com/ghpvc/?username=ketanjain113&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-</p>
+</p> -->
 
 ---
 
