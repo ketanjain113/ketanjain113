@@ -2,11 +2,11 @@
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems with Python</h3> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+,+I'm+Ketan+Jain" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+,+I'm+Ketan+Jain" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer" />
 </p>
 
 <!-- <p align="center">
